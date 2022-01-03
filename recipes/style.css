@@ -1,14 +1,28 @@
 .lumpia{
     height: 400px;
-    width: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .musubi{
     height: 400px;
     width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .furikake{
     height: 400px;
     width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
 }
